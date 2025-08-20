@@ -1,4 +1,4 @@
-# Telecom-X-Machine-Learning
+# Telecom X - Machine-Learning
 
 ### Tópicos
 
